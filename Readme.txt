@@ -9,13 +9,4 @@ Anggota kelompok dan Pembagian Tugas :
 3. Anas Syahirul Alim (19/439809/TK/48539)
 -memberi saran
 
-
-
-
-LAMPIRAN
-1. Herbsday.ly Setup.zip
-	Setup.exe program Herbsday.ly
-	(perlu install)
-2.  Herbsday.ly.exe
-	Apabila lampiran 1 terjadi error, gunakan lampiran ke 2
-	(tidak perlu install)
+UNTUK EXECUTABLE FILE DI UPLOAD MELALUI MICROSOFT TEAMS
